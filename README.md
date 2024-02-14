@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lawtonpittenger
-- 🌱 I'm always learning something new.  
+- 🌱 I love working with Python, CloudFormation, Docker, and Terraform. 
 - 📫 How to reach me https://www.linkedin.com/in/lawtonpittenger/
 
 <div>
